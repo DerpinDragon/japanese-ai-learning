@@ -1,0 +1,27 @@
+{
+  "id": "genki1_ch1_vocab",
+  "title": "Genki I - Chapter 1 Vocabulary",
+  "description": "Common greetings and self-introduction vocabulary.",
+  "chapter": 1,
+  "type": "vocabulary",
+  "questions": [
+    {
+      "question": "What does ごご mean?",
+      "choices": ["AM", "PM", "Morning", "Time"],
+      "correct_answer": "PM",
+      "hint": "Used for afternoon times (e.g., ごご 3じ)."
+    },
+    {
+      "question": "What is the meaning of せんせい?",
+      "choices": ["Student", "Teacher", "Doctor", "School"],
+      "correct_answer": "Teacher",
+      "hint": "Often used as a title, like 山田先生."
+    },
+    {
+      "question": "What does がくせい mean?",
+      "choices": ["Study", "School", "Student", "Class"],
+      "correct_answer": "Student",
+      "hint": "Made from 学 (study) + 生 (life)."
+    }
+  ]
+}

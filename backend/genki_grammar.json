@@ -1,0 +1,41 @@
+{
+  "Lesson 1: New Friends": {
+    "title": "Lesson 1: New Friends",
+    "grammar_points": [
+      "A は B です",
+      "Question sentences ending in か",
+      "の as a possessive"
+    ],
+    "explanations": [
+      "A は B です is a basic sentence structure meaning 'A is B'. For example: わたしはがくせいです。",
+      "You can make a question by adding か at the end of a sentence. For example: あなたはせんせいですか？",
+      "の is used to show possession, like an apostrophe-s in English. For example: せんせいのほん (the teacher’s book)."
+    ]
+  },
+  "Lesson 2: Shopping": {
+    "title": "Lesson 2: Shopping",
+    "grammar_points": [
+      "これ / それ / あれ",
+      "この / その / あの + noun",
+      "も for 'also'"
+    ],
+    "explanations": [
+      "これ (this), それ (that), and あれ (that over there) refer to objects depending on location.",
+      "この / その / あの are used with nouns. Example: このほん (this book).",
+      "も means 'also' or 'too'. Example: わたしもがくせいです (I am a student too)."
+    ]
+  },
+  "Lesson 3: Making a Date": {
+    "title": "Lesson 3: Making a Date",
+    "grammar_points": [
+      "～をください",
+      "～はどうですか",
+      "Time references with に"
+    ],
+    "explanations": [
+      "～をください means 'Please give me ~'. For example: みずをください。",
+      "～はどうですか is used to ask for an opinion or suggestion. Example: このえいがはどうですか？",
+      "The particle に is used to mark time. Example: にじにあいます (meet at 2 o’clock)."
+    ]
+  }
+}
