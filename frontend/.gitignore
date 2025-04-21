@@ -21,3 +21,22 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Ignore Python virtual environments
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment variables, logs, etc.
+.env
+*.log
+
+# Optional: Ignore system or IDE files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+
